@@ -1,1 +1,1 @@
-![Alt text](werks.jpg "Werks example in Python")
+See it in action in /examples.
